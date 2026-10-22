@@ -1,0 +1,9 @@
+../DOOM/p_inter.c:66:1:P_GiveAmmo	32	static
+../DOOM/p_inter.c:160:1:P_GiveWeapon	32	static
+../DOOM/p_inter.c:223:1:P_GiveBody	16	static
+../DOOM/p_inter.c:246:1:P_GiveArmor	24	static
+../DOOM/p_inter.c:268:1:P_GiveCard	16	static
+../DOOM/p_inter.c:284:1:P_GivePower	16	static
+../DOOM/p_inter.c:333:1:P_TouchSpecialThing	32	static
+../DOOM/p_inter.c:666:1:P_KillMobj	24	static
+../DOOM/p_inter.c:779:1:P_DamageMobj	48	static

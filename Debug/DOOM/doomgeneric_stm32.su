@@ -1,0 +1,11 @@
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:803:26:LL_GPIO_IsInputPinSet	16	static
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_dma.h:533:26:LL_DMA_IsEnabledStream	24	static
+../DOOM/doomgeneric_stm32.c:14:6:DG_Init	16	static
+../DOOM/doomgeneric_stm32.c:25:6:DG_DrawFrame	32	static
+../DOOM/doomgeneric_stm32.c:46:6:DG_SleepMs	16	static
+../DOOM/doomgeneric_stm32.c:51:10:DG_GetTicksMs	8	static
+../DOOM/doomgeneric_stm32.c:79:5:DG_GetKey	24	static
+../DOOM/doomgeneric_stm32.c:104:6:DG_SetWindowTitle	16	static
+../DOOM/doomgeneric_stm32.c:110:6:I_InitJoystick	4	static
+../DOOM/doomgeneric_stm32.c:114:6:I_BindJoystickVariables	4	static
+../DOOM/doomgeneric_stm32.c:119:5:mkdir	16	static

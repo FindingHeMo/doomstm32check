@@ -1,0 +1,11 @@
+../DOOM/p_lights.c:39:6:T_FireFlicker	24	static
+../DOOM/p_lights.c:61:6:P_SpawnFireFlicker	24	static
+../DOOM/p_lights.c:91:6:T_LightFlash	16	static
+../DOOM/p_lights.c:117:6:P_SpawnLightFlash	24	static
+../DOOM/p_lights.c:148:6:T_StrobeFlash	16	static
+../DOOM/p_lights.c:174:1:P_SpawnStrobeFlash	32	static
+../DOOM/p_lights.c:208:6:EV_StartLightStrobing	24	static
+../DOOM/p_lights.c:229:6:EV_TurnTagLightsOff	40	static
+../DOOM/p_lights.c:264:1:EV_LightTurnOn	40	static
+../DOOM/p_lights.c:307:6:T_Glow	16	static
+../DOOM/p_lights.c:334:6:P_SpawnGlowingLight	24	static

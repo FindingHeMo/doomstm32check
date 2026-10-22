@@ -1,0 +1,9 @@
+../DOOM/m_controls.c:204:6:M_BindBaseControls	1
+../DOOM/m_controls.c:241:6:M_BindHereticControls	1
+../DOOM/m_controls.c:256:6:M_BindHexenControls	1
+../DOOM/m_controls.c:272:6:M_BindStrifeControls	1
+../DOOM/m_controls.c:307:6:M_BindWeaponControls	1
+../DOOM/m_controls.c:328:6:M_BindMapControls	1
+../DOOM/m_controls.c:344:6:M_BindMenuControls	1
+../DOOM/m_controls.c:375:6:M_BindChatControls	2
+../DOOM/m_controls.c:394:6:M_ApplyPlatformDefaults	1

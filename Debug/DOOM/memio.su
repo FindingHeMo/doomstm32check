@@ -1,0 +1,8 @@
+../DOOM/memio.c:42:10:mem_fopen_read	24	static
+../DOOM/memio.c:58:8:mem_fread	32	static
+../DOOM/memio.c:90:10:mem_fopen_write	16	static
+../DOOM/memio.c:107:8:mem_fwrite	32	static
+../DOOM/memio.c:143:6:mem_get_buf	24	static
+../DOOM/memio.c:149:6:mem_fclose	16	static
+../DOOM/memio.c:159:6:mem_ftell	16	static
+../DOOM/memio.c:164:5:mem_fseek	32	static

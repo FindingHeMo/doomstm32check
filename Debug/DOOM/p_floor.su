@@ -1,0 +1,4 @@
+../DOOM/p_floor.c:42:1:T_MovePlane	32	static
+../DOOM/p_floor.c:202:6:T_MoveFloor	40	static
+../DOOM/p_floor.c:251:1:EV_DoFloor	48	static
+../DOOM/p_floor.c:444:1:EV_BuildStairs	64	static

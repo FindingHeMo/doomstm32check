@@ -1,0 +1,17 @@
+../DOOM/p_mobj.c:48:1:P_SetMobjState	24	static
+../DOOM/p_mobj.c:84:6:P_ExplodeMissile	16	static
+../DOOM/p_mobj.c:108:6:P_XYMovement	40	static
+../DOOM/p_mobj.c:240:6:P_ZMovement	32	static
+../DOOM/p_mobj.c:383:1:P_NightmareRespawn	40	static
+../DOOM/p_mobj.c:441:6:P_MobjThinker	16	static
+../DOOM/p_mobj.c:506:1:P_SpawnMobj	40	static
+../DOOM/p_mobj.c:572:6:P_RemoveMobj	16	static
+../DOOM/p_mobj.c:604:6:P_RespawnSpecials	40	static
+../DOOM/p_mobj.c:668:6:P_SpawnPlayer	40	static
+../DOOM/p_mobj.c:739:6:P_SpawnMapThing	40	static
+../DOOM/p_mobj.c:851:1:P_SpawnPuff	40	static
+../DOOM/p_mobj.c:878:1:P_SpawnBlood	40	static
+../DOOM/p_mobj.c:907:6:P_CheckMissileSpawn	16	static
+../DOOM/p_mobj.c:929:9:P_SubstNullMobj	16	static
+../DOOM/p_mobj.c:950:1:P_SpawnMissile	48	static
+../DOOM/p_mobj.c:996:1:P_SpawnPlayerMissile	40	static

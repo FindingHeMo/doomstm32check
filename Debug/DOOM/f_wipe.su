@@ -1,0 +1,10 @@
+../DOOM/f_wipe.c:43:1:wipe_shittyColMajorXform	40	static
+../DOOM/f_wipe.c:65:1:wipe_initColorXForm	24	static
+../DOOM/f_wipe.c:75:1:wipe_doColorXForm	40	static
+../DOOM/f_wipe.c:121:1:wipe_exitColorXForm	24	static
+../DOOM/f_wipe.c:133:1:wipe_initMelt	32	static
+../DOOM/f_wipe.c:164:1:wipe_doMelt	56	static
+../DOOM/f_wipe.c:219:1:wipe_exitMelt	24	static
+../DOOM/f_wipe.c:231:1:wipe_StartScreen	24	static
+../DOOM/f_wipe.c:243:1:wipe_EndScreen	32	static
+../DOOM/f_wipe.c:256:1:wipe_ScreenWipe	32	static

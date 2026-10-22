@@ -1,0 +1,15 @@
+../DOOM/p_setup.c:118:6:P_LoadVertexes	32	static
+../DOOM/p_setup.c:153:11:GetSectorAtNullAddress	8	static
+../DOOM/p_setup.c:172:6:P_LoadSegs	48	static
+../DOOM/p_setup.c:236:6:P_LoadSubsectors	32	static
+../DOOM/p_setup.c:265:6:P_LoadSectors	32	static
+../DOOM/p_setup.c:298:6:P_LoadNodes	40	static
+../DOOM/p_setup.c:335:6:P_LoadThings	48	static
+../DOOM/p_setup.c:392:6:P_LoadLineDefs	40	static
+../DOOM/p_setup.c:473:6:P_LoadSideDefs	32	static
+../DOOM/p_setup.c:504:6:P_LoadBlockMap	32	static
+../DOOM/p_setup.c:545:6:P_GroupLines	56	static
+../DOOM/p_setup.c:661:13:PadRejectArray	48	static
+../DOOM/p_setup.c:712:13:P_LoadReject	24	static
+../DOOM/p_setup.c:744:1:P_SetupLevel	48	static
+../DOOM/p_setup.c:847:6:P_Init	8	static

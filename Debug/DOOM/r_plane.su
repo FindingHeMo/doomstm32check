@@ -1,0 +1,7 @@
+../DOOM/r_plane.c:94:6:R_InitPlanes	4	static
+../DOOM/r_plane.c:114:1:R_MapPlane	48	static
+../DOOM/r_plane.c:178:6:R_ClearPlanes	16	static
+../DOOM/r_plane.c:211:1:R_FindPlane	32	static
+../DOOM/r_plane.c:259:1:R_CheckPlane	48	static
+../DOOM/r_plane.c:324:1:R_MakeSpans	24	static
+../DOOM/r_plane.c:360:6:R_DrawPlanes	48	static

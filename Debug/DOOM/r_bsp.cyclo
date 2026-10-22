@@ -1,0 +1,8 @@
+../DOOM/r_bsp.c:61:6:R_ClearDrawSegs	1
+../DOOM/r_bsp.c:97:1:R_ClipSolidWallSegment	10
+../DOOM/r_bsp.c:190:1:R_ClipPassWallSegment	7
+../DOOM/r_bsp.c:238:6:R_ClearClipSegs	1
+../DOOM/r_bsp.c:252:6:R_AddLine	16
+../DOOM/r_bsp.c:374:9:R_CheckBBox	15
+../DOOM/r_bsp.c:490:6:R_Subsector	6
+../DOOM/r_bsp.c:545:6:R_RenderBSPNode	4

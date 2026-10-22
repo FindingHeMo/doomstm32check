@@ -1,0 +1,17 @@
+../DOOM/s_sound.c:114:6:S_Init	24	static
+../DOOM/s_sound.c:146:6:S_Shutdown	8	static
+../DOOM/s_sound.c:152:13:S_StopChannel	24	static
+../DOOM/s_sound.c:191:6:S_Start	64	static
+../DOOM/s_sound.c:243:6:S_StopSound	24	static
+../DOOM/s_sound.c:262:12:S_GetChannel	24	static
+../DOOM/s_sound.c:323:12:S_AdjustSoundParams	40	static
+../DOOM/s_sound.c:391:6:S_StartSound	48	static
+../DOOM/s_sound.c:482:6:S_PauseSound	8	static
+../DOOM/s_sound.c:491:6:S_ResumeSound	8	static
+../DOOM/s_sound.c:504:6:S_UpdateSounds	40	static
+../DOOM/s_sound.c:571:6:S_SetMusicVolume	16	static
+../DOOM/s_sound.c:582:6:S_SetSfxVolume	16	static
+../DOOM/s_sound.c:596:6:S_StartMusic	16	static
+../DOOM/s_sound.c:601:6:S_ChangeMusic	48	static
+../DOOM/s_sound.c:649:9:S_MusicPlaying	8	static
+../DOOM/s_sound.c:654:6:S_StopMusic	8	static

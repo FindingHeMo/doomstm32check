@@ -1,0 +1,2 @@
+../DOOM/m_fixed.c:34:1:FixedMul	32	static
+../DOOM/m_fixed.c:47:9:FixedDiv	40	static

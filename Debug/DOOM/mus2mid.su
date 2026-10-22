@@ -1,0 +1,12 @@
+../DOOM/mus2mid.c:103:16:WriteTime	24	static
+../DOOM/mus2mid.c:139:16:WriteEndTrack	24	static
+../DOOM/mus2mid.c:158:16:WritePressKey	24	static
+../DOOM/mus2mid.c:193:16:WriteReleaseKey	24	static
+../DOOM/mus2mid.c:228:16:WritePitchWheel	24	static
+../DOOM/mus2mid.c:262:16:WriteChangePatch	24	static
+../DOOM/mus2mid.c:291:16:WriteChangeController_Valued	24	static
+../DOOM/mus2mid.c:339:16:WriteChangeController_Valueless	16	static
+../DOOM/mus2mid.c:349:12:AllocateMIDIChannel	24	static
+../DOOM/mus2mid.c:386:12:GetMIDIChannel	16	static
+../DOOM/mus2mid.c:415:16:ReadMusHeader	24	static
+../DOOM/mus2mid.c:444:9:mus2mid	56	static

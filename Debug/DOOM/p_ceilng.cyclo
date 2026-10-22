@@ -1,0 +1,6 @@
+../DOOM/p_ceilng.c:45:6:T_MoveCeiling	24
+../DOOM/p_ceilng.c:161:1:EV_DoCeiling	9
+../DOOM/p_ceilng.c:240:6:P_AddActiveCeiling	3
+../DOOM/p_ceilng.c:259:6:P_RemoveActiveCeiling	3
+../DOOM/p_ceilng.c:280:6:P_ActivateInStasisCeiling	5
+../DOOM/p_ceilng.c:303:5:EV_CeilingCrushStop	5

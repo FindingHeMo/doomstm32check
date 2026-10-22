@@ -1,0 +1,16 @@
+../DOOM/d_loop.c:119:12:GetAdjustedTime	16	static
+../DOOM/d_loop.c:136:16:BuildNewTic	40	static
+../DOOM/d_loop.c:203:6:NetUpdate	24	static
+../DOOM/d_loop.c:252:13:D_Disconnected	8	static
+../DOOM/d_loop.c:271:6:D_ReceiveTic	32	static
+../DOOM/d_loop.c:305:6:D_StartGameLoop	8	static
+../DOOM/d_loop.c:340:6:D_StartNetGame	16	static
+../DOOM/d_loop.c:452:9:D_InitNetGame	24	static
+../DOOM/d_loop.c:560:6:D_QuitNetGame	4	static
+../DOOM/d_loop.c:568:12:GetLowTic	16	static
+../DOOM/d_loop.c:591:13:OldNetSync	16	static
+../DOOM/d_loop.c:642:16:PlayersInGame	16	static
+../DOOM/d_loop.c:672:13:TicdupSquash	24	static
+../DOOM/d_loop.c:689:13:SinglePlayerClear	24	static
+../DOOM/d_loop.c:706:6:TryRunTics	40	static
+../DOOM/d_loop.c:823:6:D_RegisterLoopCallbacks	16	static

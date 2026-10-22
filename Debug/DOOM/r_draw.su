@@ -1,0 +1,13 @@
+../DOOM/r_draw.c:102:6:R_DrawColumn	24	static
+../DOOM/r_draw.c:208:6:R_DrawColumnLow	32	static
+../DOOM/r_draw.c:283:6:R_DrawFuzzColumn	24	static
+../DOOM/r_draw.c:342:6:R_DrawFuzzColumnLow	32	static
+../DOOM/r_draw.c:424:6:R_DrawTranslatedColumn	24	static
+../DOOM/r_draw.c:468:6:R_DrawTranslatedColumnLow	32	static
+../DOOM/r_draw.c:530:6:R_InitTranslationTables	16	static
+../DOOM/r_draw.c:590:6:R_DrawSpan	40	static
+../DOOM/r_draw.c:719:6:R_DrawSpanLow	40	static
+../DOOM/r_draw.c:777:1:R_InitBuffer	24	static
+../DOOM/r_draw.c:812:6:R_FillBackScreen	48	static
+../DOOM/r_draw.c:919:1:R_VideoErase	16	static
+../DOOM/r_draw.c:941:6:R_DrawViewBorder	24	static

@@ -1,0 +1,12 @@
+../DOOM/z_zone.c:71:6:Z_ClearZone	1
+../DOOM/z_zone.c:97:6:Z_Init	1
+../DOOM/z_zone.c:126:6:Z_Free	8
+../DOOM/z_zone.c:185:1:Z_Malloc	11
+../DOOM/z_zone.c:298:1:Z_FreeTags	5
+../DOOM/z_zone.c:328:1:Z_DumpHeap	8
+../DOOM/z_zone.c:367:6:Z_FileDumpHeap	6
+../DOOM/z_zone.c:400:6:Z_CheckHeap	6
+../DOOM/z_zone.c:429:6:Z_ChangeTag2	4
+../DOOM/z_zone.c:446:6:Z_ChangeUser	2
+../DOOM/z_zone.c:466:5:Z_FreeMemory	4
+../DOOM/z_zone.c:484:14:Z_ZoneSize	1

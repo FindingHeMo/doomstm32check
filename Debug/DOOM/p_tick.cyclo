@@ -1,0 +1,6 @@
+../DOOM/p_tick.c:46:6:P_InitThinkers	1
+../DOOM/p_tick.c:58:6:P_AddThinker	1
+../DOOM/p_tick.c:73:6:P_RemoveThinker	1
+../DOOM/p_tick.c:85:6:P_AllocateThinker	1
+../DOOM/p_tick.c:94:6:P_RunThinkers	4
+../DOOM/p_tick.c:123:6:P_Ticker	8

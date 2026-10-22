@@ -1,0 +1,5 @@
+../DOOM/p_user.c:52:1:P_Thrust	24	static
+../DOOM/p_user.c:70:6:P_CalcHeight	32	static
+../DOOM/p_user.c:141:6:P_MovePlayer	24	static
+../DOOM/p_user.c:175:6:P_DeathThink	24	static
+../DOOM/p_user.c:229:6:P_PlayerThink	24	static

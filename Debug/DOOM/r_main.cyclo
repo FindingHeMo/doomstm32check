@@ -1,0 +1,17 @@
+../DOOM/r_main.c:123:1:R_AddPointToBox	5
+../DOOM/r_main.c:146:1:R_PointOnSide	8
+../DOOM/r_main.c:199:1:R_PointOnSegSide	8
+../DOOM/r_main.c:276:1:R_PointToAngle	10
+../DOOM/r_main.c:362:1:R_PointToAngle2	1
+../DOOM/r_main.c:376:1:R_PointToDist	3
+../DOOM/r_main.c:422:6:R_InitPointToAngle	1
+../DOOM/r_main.c:449:9:R_ScaleFromGlobalAngle	4
+../DOOM/r_main.c:505:6:R_InitTables	1
+../DOOM/r_main.c:540:6:R_InitTextureMapping	11
+../DOOM/r_main.c:610:6:R_InitLightTables	6
+../DOOM/r_main.c:654:1:R_SetViewSize	1
+../DOOM/r_main.c:667:6:R_ExecuteSetViewSize	15
+../DOOM/r_main.c:767:6:R_Init	1
+../DOOM/r_main.c:794:1:R_PointInSubsector	3
+../DOOM/r_main.c:823:6:R_SetupFrame	3
+../DOOM/r_main.c:863:6:R_RenderPlayerView	1

@@ -1,0 +1,4 @@
+../DOOM/p_switch.c:101:6:P_InitSwitchList	32	static
+../DOOM/p_switch.c:149:1:P_StartButton	32	static
+../DOOM/p_switch.c:195:1:P_ChangeSwitchTexture	40	static
+../DOOM/p_switch.c:270:1:P_UseSpecialLine	24	static

@@ -1,0 +1,5 @@
+../DOOM/p_sight.c:48:1:P_DivlineSide	40	static
+../DOOM/p_sight.c:102:1:P_InterceptVector2	40	static
+../DOOM/p_sight.c:128:9:P_CrossSubsector	88	static
+../DOOM/p_sight.c:258:9:P_CrossBSPNode	24	static
+../DOOM/p_sight.c:301:1:P_CheckSight	40	static

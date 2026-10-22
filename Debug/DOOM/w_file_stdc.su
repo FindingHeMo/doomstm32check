@@ -1,0 +1,3 @@
+../DOOM/w_file_stdc.c:34:20:W_StdC_OpenFile	32	static
+../DOOM/w_file_stdc.c:65:13:W_StdC_CloseFile	24	static
+../DOOM/w_file_stdc.c:80:8:W_StdC_Read	48	static

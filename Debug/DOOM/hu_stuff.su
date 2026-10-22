@@ -1,0 +1,9 @@
+../DOOM/hu_stuff.c:286:6:HU_Init	32	static
+../DOOM/hu_stuff.c:303:6:HU_Stop	4	static
+../DOOM/hu_stuff.c:308:6:HU_Start	32	static
+../DOOM/hu_stuff.c:383:6:HU_Drawer	8	static
+../DOOM/hu_stuff.c:393:6:HU_Erase	8	static
+../DOOM/hu_stuff.c:402:6:HU_Ticker	24	static
+../DOOM/hu_stuff.c:482:6:HU_queueChatChar	16	static
+../DOOM/hu_stuff.c:495:6:HU_dequeueChatChar	16	static
+../DOOM/hu_stuff.c:512:9:HU_Responder	40	static

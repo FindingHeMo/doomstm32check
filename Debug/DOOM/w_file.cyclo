@@ -1,0 +1,3 @@
+../DOOM/w_file.c:53:13:W_OpenFile	4
+../DOOM/w_file.c:85:6:W_CloseFile	1
+../DOOM/w_file.c:90:8:W_Read	1

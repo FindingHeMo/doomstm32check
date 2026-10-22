@@ -1,0 +1,14 @@
+../DOOM/r_data.c:186:1:R_DrawColumnInCache	40	static
+../DOOM/r_data.c:226:6:R_GenerateComposite	64	static
+../DOOM/r_data.c:294:6:R_GenerateLookup	56	static
+../DOOM/r_data.c:383:1:R_GetColumn	24	static
+../DOOM/r_data.c:404:13:GenerateTextureHashTable	24	static
+../DOOM/r_data.c:451:6:R_InitTextures	120	static
+../DOOM/r_data.c:633:6:R_InitFlats	16	static
+../DOOM/r_data.c:655:6:R_InitSpriteLumps	16	static
+../DOOM/r_data.c:685:6:R_InitColormaps	16	static
+../DOOM/r_data.c:703:6:R_InitData	8	static
+../DOOM/r_data.c:720:5:R_FlatNumForName	32	static
+../DOOM/r_data.c:744:5:R_CheckTextureNumForName	24	static
+../DOOM/r_data.c:775:5:R_TextureNumForName	24	static
+../DOOM/r_data.c:800:6:R_PrecacheLevel	48	static

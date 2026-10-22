@@ -1,0 +1,3 @@
+../DOOM/m_random.c:50:5:P_Random	4	static
+../DOOM/m_random.c:56:5:M_Random	4	static
+../DOOM/m_random.c:62:6:M_ClearRandom	4	static

@@ -1,0 +1,6 @@
+../DOOM/p_doors.c:57:6:T_VerticalDoor	32	static
+../DOOM/p_doors.c:195:1:EV_DoLockedDoor	32	static
+../DOOM/p_doors.c:252:1:EV_DoDoor	32	static
+../DOOM/p_doors.c:337:1:EV_VerticalDoor	40	static
+../DOOM/p_doors.c:519:6:P_SpawnDoorCloseIn30	24	static
+../DOOM/p_doors.c:542:1:P_SpawnDoorRaiseIn5Mins	24	static

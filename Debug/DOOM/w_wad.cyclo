@@ -1,0 +1,15 @@
+../DOOM/w_wad.c:70:14:W_LumpNameHash	4
+../DOOM/w_wad.c:87:13:ExtendLumpInfo	6
+../DOOM/w_wad.c:139:13:W_AddFile	7
+../DOOM/w_wad.c:246:5:W_NumLumps	1
+../DOOM/w_wad.c:258:12:my_strnicmp	11
+../DOOM/w_wad.c:277:5:W_CheckNumForName	3
+../DOOM/w_wad.c:338:5:W_GetNumForName	11
+../DOOM/w_wad.c:378:5:W_LumpLength	2
+../DOOM/w_wad.c:395:6:W_ReadLump	3
+../DOOM/w_wad.c:435:7:W_CacheLumpNum	4
+../DOOM/w_wad.c:482:7:W_CacheLumpName	1
+../DOOM/w_wad.c:497:6:W_ReleaseLumpNum	3
+../DOOM/w_wad.c:518:6:W_ReleaseLumpName	1
+../DOOM/w_wad.c:592:6:W_GenerateHashTable	4
+../DOOM/w_wad.c:639:6:W_CheckCorrectIWAD	4

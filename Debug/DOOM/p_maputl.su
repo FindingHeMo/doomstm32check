@@ -1,0 +1,17 @@
+../DOOM/p_maputl.c:44:1:P_AproxDistance	16	static
+../DOOM/p_maputl.c:61:1:P_PointOnLineSide	40	static
+../DOOM/p_maputl.c:105:1:P_BoxOnLineSide	24	static
+../DOOM/p_maputl.c:156:1:P_PointOnDivlineSide	40	static
+../DOOM/p_maputl.c:206:1:P_MakeDivline	16	static
+../DOOM/p_maputl.c:226:1:P_InterceptVector	40	static
+../DOOM/p_maputl.c:295:6:P_LineOpening	24	static
+../DOOM/p_maputl.c:342:6:P_UnsetThingPosition	24	static
+../DOOM/p_maputl.c:391:1:P_SetThingPosition	40	static
+../DOOM/p_maputl.c:467:1:P_BlockLinesIterator	40	static
+../DOOM/p_maputl.c:508:1:P_BlockThingsIterator	32	static
+../DOOM/p_maputl.c:559:1:PIT_AddLineIntercepts	48	static
+../DOOM/p_maputl.c:614:9:PIT_AddThingIntercepts	64	static
+../DOOM/p_maputl.c:682:1:P_TraverseIntercepts	32	static
+../DOOM/p_maputl.c:782:13:InterceptsMemoryOverrun	32	static
+../DOOM/p_maputl.c:827:13:InterceptsOverrun	24	static
+../DOOM/p_maputl.c:861:1:P_PathTraverse	88	static

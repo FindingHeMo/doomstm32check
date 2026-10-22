@@ -1,0 +1,14 @@
+../DOOM/i_system.c:73:6:I_AtExit	24	static
+../DOOM/i_system.c:87:6:I_Tactile	24	static
+../DOOM/i_system.c:95:14:AutoAllocMemory	32	static
+../DOOM/i_system.c:133:7:I_ZoneBase	16	static
+../DOOM/i_system.c:139:6:I_PrintBanner	24	static
+../DOOM/i_system.c:150:6:I_PrintDivider	16	static
+../DOOM/i_system.c:162:6:I_PrintStartupBanner	16	static
+../DOOM/i_system.c:183:9:I_ConsoleStdout	4	static
+../DOOM/i_system.c:219:6:I_Quit	16	static
+../DOOM/i_system.c:245:12:ZenityAvailable	8	static
+../DOOM/i_system.c:253:14:EscapeShellString	32	static
+../DOOM/i_system.c:296:12:ZenityErrorBox	40	static
+../DOOM/i_system.c:332:6:I_Error	536	static
+../DOOM/i_system.c:476:9:I_GetMemoryValue	40	static

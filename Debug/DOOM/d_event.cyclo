@@ -1,0 +1,2 @@
+../DOOM/d_event.c:35:6:D_PostEvent	1
+../DOOM/d_event.c:43:10:D_PopEvent	2

@@ -1,0 +1,6 @@
+../DOOM/d_mode.c:50:9:D_ValidGameMode	4
+../DOOM/d_mode.c:65:9:D_ValidEpisodeMap	15
+../DOOM/d_mode.c:103:5:D_GetNumEpisodes	2
+../DOOM/d_mode.c:135:9:D_ValidGameVersion	9
+../DOOM/d_mode.c:161:9:D_IsEpisodeMap	3
+../DOOM/d_mode.c:182:7:D_GameMissionString	10

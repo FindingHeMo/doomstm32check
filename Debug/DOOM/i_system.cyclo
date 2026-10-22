@@ -1,0 +1,14 @@
+../DOOM/i_system.c:73:6:I_AtExit	1
+../DOOM/i_system.c:87:6:I_Tactile	1
+../DOOM/i_system.c:95:14:AutoAllocMemory	4
+../DOOM/i_system.c:133:7:I_ZoneBase	1
+../DOOM/i_system.c:139:6:I_PrintBanner	2
+../DOOM/i_system.c:150:6:I_PrintDivider	2
+../DOOM/i_system.c:162:6:I_PrintStartupBanner	1
+../DOOM/i_system.c:183:9:I_ConsoleStdout	1
+../DOOM/i_system.c:219:6:I_Quit	2
+../DOOM/i_system.c:245:12:ZenityAvailable	1
+../DOOM/i_system.c:253:14:EscapeShellString	3
+../DOOM/i_system.c:296:12:ZenityErrorBox	2
+../DOOM/i_system.c:332:6:I_Error	5
+../DOOM/i_system.c:476:9:I_GetMemoryValue	13

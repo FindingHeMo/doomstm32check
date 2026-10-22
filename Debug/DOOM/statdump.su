@@ -1,0 +1,2 @@
+../DOOM/statdump.c:333:6:StatCopy	16	static
+../DOOM/statdump.c:343:6:StatDump	4	static

@@ -1,0 +1,12 @@
+../DOOM/mus2mid.c:103:16:WriteTime	4
+../DOOM/mus2mid.c:139:16:WriteEndTrack	3
+../DOOM/mus2mid.c:158:16:WritePressKey	5
+../DOOM/mus2mid.c:193:16:WriteReleaseKey	5
+../DOOM/mus2mid.c:228:16:WritePitchWheel	5
+../DOOM/mus2mid.c:262:16:WriteChangePatch	4
+../DOOM/mus2mid.c:291:16:WriteChangeController_Valued	6
+../DOOM/mus2mid.c:339:16:WriteChangeController_Valueless	1
+../DOOM/mus2mid.c:349:12:AllocateMIDIChannel	4
+../DOOM/mus2mid.c:386:12:GetMIDIChannel	3
+../DOOM/mus2mid.c:415:16:ReadMusHeader	8
+../DOOM/mus2mid.c:444:9:mus2mid	47

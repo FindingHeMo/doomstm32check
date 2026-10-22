@@ -1,0 +1,5 @@
+../DOOM/p_user.c:52:1:P_Thrust	1
+../DOOM/p_user.c:70:6:P_CalcHeight	13
+../DOOM/p_user.c:141:6:P_MovePlayer	8
+../DOOM/p_user.c:175:6:P_DeathThink	11
+../DOOM/p_user.c:229:6:P_PlayerThink	37

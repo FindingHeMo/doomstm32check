@@ -1,0 +1,6 @@
+../DOOM/m_argv.c:43:5:M_CheckParmWithArgs	24	static
+../DOOM/m_argv.c:63:9:M_ParmExists	16	static
+../DOOM/m_argv.c:68:5:M_CheckParm	16	static
+../DOOM/m_argv.c:75:13:LoadResponseFile	16	static
+../DOOM/m_argv.c:235:6:M_FindResponseFile	16	static
+../DOOM/m_argv.c:250:7:M_GetExecutableName	16	static

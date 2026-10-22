@@ -1,0 +1,2 @@
+../DOOM/m_cheat.c:35:1:cht_CheckCheat	8
+../DOOM/m_cheat.c:82:1:cht_GetParam	1

@@ -1,0 +1,6 @@
+../DOOM/d_mode.c:50:9:D_ValidGameMode	24	static
+../DOOM/d_mode.c:65:9:D_ValidEpisodeMap	32	static
+../DOOM/d_mode.c:103:5:D_GetNumEpisodes	24	static
+../DOOM/d_mode.c:135:9:D_ValidGameVersion	24	static
+../DOOM/d_mode.c:161:9:D_IsEpisodeMap	16	static
+../DOOM/d_mode.c:182:7:D_GameMissionString	16	static

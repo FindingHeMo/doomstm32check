@@ -1,0 +1,2 @@
+../DOOM/m_bbox.c:29:6:M_ClearBox	16	static
+../DOOM/m_bbox.c:36:1:M_AddToBox	24	static

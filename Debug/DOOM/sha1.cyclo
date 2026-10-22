@@ -1,0 +1,6 @@
+../DOOM/sha1.c:40:6:SHA1_Init	1
+../DOOM/sha1.c:55:13:Transform	2
+../DOOM/sha1.c:198:6:SHA1_Update	10
+../DOOM/sha1.c:238:6:SHA1_Final	5
+../DOOM/sha1.c:303:6:SHA1_UpdateInt32	1
+../DOOM/sha1.c:315:6:SHA1_UpdateString	1

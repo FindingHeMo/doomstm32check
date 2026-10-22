@@ -1,0 +1,14 @@
+../DOOM/r_things.c:100:1:R_InstallSpriteLump	32	static
+../DOOM/r_things.c:171:6:R_InitSpriteDefs	56	static
+../DOOM/r_things.c:291:6:R_InitSprites	24	static
+../DOOM/r_things.c:309:6:R_ClearSprites	4	static
+../DOOM/r_things.c:320:14:R_NewVisSprite	4	static
+../DOOM/r_things.c:343:6:R_DrawMaskedColumn	32	static
+../DOOM/r_things.c:389:1:R_DrawVisSprite	48	static
+../DOOM/r_things.c:444:6:R_ProjectSprite	88	static
+../DOOM/r_things.c:605:6:R_AddSprites	24	static
+../DOOM/r_things.c:638:6:R_DrawPSprite	112	static
+../DOOM/r_things.c:738:6:R_DrawPlayerSprites	24	static
+../DOOM/r_things.c:779:6:R_SortVisSprites	88	static
+../DOOM/r_things.c:837:6:R_DrawSprite	48	static
+../DOOM/r_things.c:951:6:R_DrawMasked	16	static

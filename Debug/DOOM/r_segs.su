@@ -1,0 +1,3 @@
+../DOOM/r_segs.c:96:1:R_RenderMaskedSegRange	48	static
+../DOOM/r_segs.c:199:6:R_RenderSegLoop	48	static
+../DOOM/r_segs.c:372:1:R_StoreWallRange	48	static

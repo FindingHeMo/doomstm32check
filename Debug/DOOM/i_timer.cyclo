@@ -1,0 +1,6 @@
+../DOOM/i_timer.c:38:5:I_GetTicks	1
+../DOOM/i_timer.c:43:6:I_GetTime	2
+../DOOM/i_timer.c:62:5:I_GetTimeMS	2
+../DOOM/i_timer.c:76:6:I_Sleep	1
+../DOOM/i_timer.c:84:6:I_WaitVBL	1
+../DOOM/i_timer.c:90:6:I_InitTimer	1

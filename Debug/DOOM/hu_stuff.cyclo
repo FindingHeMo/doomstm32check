@@ -1,0 +1,9 @@
+../DOOM/hu_stuff.c:286:6:HU_Init	2
+../DOOM/hu_stuff.c:303:6:HU_Stop	1
+../DOOM/hu_stuff.c:308:6:HU_Start	11
+../DOOM/hu_stuff.c:383:6:HU_Drawer	2
+../DOOM/hu_stuff.c:393:6:HU_Erase	1
+../DOOM/hu_stuff.c:402:6:HU_Ticker	21
+../DOOM/hu_stuff.c:482:6:HU_queueChatChar	2
+../DOOM/hu_stuff.c:495:6:HU_dequeueChatChar	2
+../DOOM/hu_stuff.c:512:9:HU_Responder	28

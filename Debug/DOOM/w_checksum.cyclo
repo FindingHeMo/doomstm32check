@@ -1,0 +1,3 @@
+../DOOM/w_checksum.c:31:12:GetFileNumber	3
+../DOOM/w_checksum.c:57:13:ChecksumAddLump	1
+../DOOM/w_checksum.c:68:6:W_Checksum	2

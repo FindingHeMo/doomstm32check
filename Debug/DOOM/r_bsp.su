@@ -1,0 +1,8 @@
+../DOOM/r_bsp.c:61:6:R_ClearDrawSegs	4	static
+../DOOM/r_bsp.c:97:1:R_ClipSolidWallSegment	24	static
+../DOOM/r_bsp.c:190:1:R_ClipPassWallSegment	24	static
+../DOOM/r_bsp.c:238:6:R_ClearClipSegs	4	static
+../DOOM/r_bsp.c:252:6:R_AddLine	40	static
+../DOOM/r_bsp.c:374:9:R_CheckBBox	72	static
+../DOOM/r_bsp.c:490:6:R_Subsector	32	static
+../DOOM/r_bsp.c:545:6:R_RenderBSPNode	24	static

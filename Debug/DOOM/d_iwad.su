@@ -1,0 +1,13 @@
+../DOOM/d_iwad.c:64:13:AddIWADDir	16	static
+../DOOM/d_iwad.c:391:16:DirIsFile	24	static
+../DOOM/d_iwad.c:408:14:CheckDirectoryHasIWAD	24	static
+../DOOM/d_iwad.c:447:14:SearchDirectoryForIWAD	32	static
+../DOOM/d_iwad.c:475:22:IdentifyIWADByName	32	static
+../DOOM/d_iwad.c:567:13:BuildIWADDirList	8	static
+../DOOM/d_iwad.c:628:7:D_FindWADByName	24	static
+../DOOM/d_iwad.c:679:7:D_TryFindWADByName	24	static
+../DOOM/d_iwad.c:702:7:D_FindIWAD	32	static
+../DOOM/d_iwad.c:755:16:D_FindAllIWADs	32	static
+../DOOM/d_iwad.c:794:7:D_SaveGameIWADName	24	static
+../DOOM/d_iwad.c:818:7:D_SuggestIWADName	24	static
+../DOOM/d_iwad.c:833:7:D_SuggestGameName	24	static

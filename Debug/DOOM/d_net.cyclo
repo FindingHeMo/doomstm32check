@@ -1,0 +1,7 @@
+../DOOM/d_net.c:45:13:PlayerQuitGame	2
+../DOOM/d_net.c:71:13:RunTic	6
+../DOOM/d_net.c:108:13:LoadGameSettings	3
+../DOOM/d_net.c:139:13:SaveGameSettings	3
+../DOOM/d_net.c:159:13:InitConnectData	5
+../DOOM/d_net.c:215:6:D_ConnectNetGame	2
+../DOOM/d_net.c:240:6:D_CheckNetGame	7

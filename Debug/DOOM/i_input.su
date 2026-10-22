@@ -1,0 +1,5 @@
+../DOOM/i_input.c:225:22:TranslateKey	16	static
+../DOOM/i_input.c:242:22:GetTypedChar	16	static
+../DOOM/i_input.c:263:13:UpdateShiftStatus	24	static
+../DOOM/i_input.c:279:6:I_GetEvent	40	static
+../DOOM/i_input.c:338:6:I_InitInput	4	static

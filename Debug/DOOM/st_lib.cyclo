@@ -1,0 +1,10 @@
+../DOOM/st_lib.c:51:6:STlib_init	1
+../DOOM/st_lib.c:59:1:STlib_initNum	1
+../DOOM/st_lib.c:84:1:STlib_drawNum	12
+../DOOM/st_lib.c:146:1:STlib_updateNum	2
+../DOOM/st_lib.c:156:1:STlib_initPercent	1
+../DOOM/st_lib.c:173:1:STlib_updatePercent	3
+../DOOM/st_lib.c:186:1:STlib_initMultIcon	1
+../DOOM/st_lib.c:205:1:STlib_updateMultIcon	7
+../DOOM/st_lib.c:236:1:STlib_initBinIcon	1
+../DOOM/st_lib.c:255:1:STlib_updateBinIcon	6
